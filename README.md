@@ -15,4 +15,4 @@ so that I have quick access to emails and GitHub profiles
 
 Dependencies:
 
-The dependencies are, jest for running the provided tests, and inquirer for collecting input from the user.
+The dependencies are jest for running the provided tests, and inquirer for collecting input from the user.
