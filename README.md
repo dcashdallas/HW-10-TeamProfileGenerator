@@ -1,5 +1,7 @@
 # HW-10-TeamProfileGenerator
 
+![team profile generator demo](https://github.com/dcashdallas/HW-10-TeamProfileGenerator/blob/master/teamprofilegenerator.gif?raw=true)
+
 -The following app is a team generator command line application. 
 -The application will prompt the user for information about the team manager and then information about the team members. 
 -The user can input any number of team members, and they may be a mix of engineers and interns. 
